@@ -1,0 +1,13 @@
+C:\VS\C#\C# Advanced\C# OOP\1.WorkingWithAbstraction-Lab\1.RhombusOfStars\bin\Debug\netcoreapp3.1\1.RhombusOfStars.exe
+C:\VS\C#\C# Advanced\C# OOP\1.WorkingWithAbstraction-Lab\1.RhombusOfStars\bin\Debug\netcoreapp3.1\1.RhombusOfStars.deps.json
+C:\VS\C#\C# Advanced\C# OOP\1.WorkingWithAbstraction-Lab\1.RhombusOfStars\bin\Debug\netcoreapp3.1\1.RhombusOfStars.runtimeconfig.json
+C:\VS\C#\C# Advanced\C# OOP\1.WorkingWithAbstraction-Lab\1.RhombusOfStars\bin\Debug\netcoreapp3.1\1.RhombusOfStars.runtimeconfig.dev.json
+C:\VS\C#\C# Advanced\C# OOP\1.WorkingWithAbstraction-Lab\1.RhombusOfStars\bin\Debug\netcoreapp3.1\1.RhombusOfStars.dll
+C:\VS\C#\C# Advanced\C# OOP\1.WorkingWithAbstraction-Lab\1.RhombusOfStars\bin\Debug\netcoreapp3.1\1.RhombusOfStars.pdb
+C:\VS\C#\C# Advanced\C# OOP\1.WorkingWithAbstraction-Lab\1.RhombusOfStars\obj\Debug\netcoreapp3.1\1.RhombusOfStars.csprojAssemblyReference.cache
+C:\VS\C#\C# Advanced\C# OOP\1.WorkingWithAbstraction-Lab\1.RhombusOfStars\obj\Debug\netcoreapp3.1\1.RhombusOfStars.AssemblyInfoInputs.cache
+C:\VS\C#\C# Advanced\C# OOP\1.WorkingWithAbstraction-Lab\1.RhombusOfStars\obj\Debug\netcoreapp3.1\1.RhombusOfStars.AssemblyInfo.cs
+C:\VS\C#\C# Advanced\C# OOP\1.WorkingWithAbstraction-Lab\1.RhombusOfStars\obj\Debug\netcoreapp3.1\1.RhombusOfStars.csproj.CoreCompileInputs.cache
+C:\VS\C#\C# Advanced\C# OOP\1.WorkingWithAbstraction-Lab\1.RhombusOfStars\obj\Debug\netcoreapp3.1\1.RhombusOfStars.dll
+C:\VS\C#\C# Advanced\C# OOP\1.WorkingWithAbstraction-Lab\1.RhombusOfStars\obj\Debug\netcoreapp3.1\1.RhombusOfStars.pdb
+C:\VS\C#\C# Advanced\C# OOP\1.WorkingWithAbstraction-Lab\1.RhombusOfStars\obj\Debug\netcoreapp3.1\1.RhombusOfStars.genruntimeconfig.cache

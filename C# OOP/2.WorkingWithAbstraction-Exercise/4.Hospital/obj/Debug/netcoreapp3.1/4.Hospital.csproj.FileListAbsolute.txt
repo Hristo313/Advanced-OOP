@@ -1,0 +1,13 @@
+C:\VS\C#\C# Advanced\C# OOP\2.WorkingWithAbstraction-Exercise\4.Hospital\bin\Debug\netcoreapp3.1\4.Hospital.exe
+C:\VS\C#\C# Advanced\C# OOP\2.WorkingWithAbstraction-Exercise\4.Hospital\bin\Debug\netcoreapp3.1\4.Hospital.deps.json
+C:\VS\C#\C# Advanced\C# OOP\2.WorkingWithAbstraction-Exercise\4.Hospital\bin\Debug\netcoreapp3.1\4.Hospital.runtimeconfig.json
+C:\VS\C#\C# Advanced\C# OOP\2.WorkingWithAbstraction-Exercise\4.Hospital\bin\Debug\netcoreapp3.1\4.Hospital.runtimeconfig.dev.json
+C:\VS\C#\C# Advanced\C# OOP\2.WorkingWithAbstraction-Exercise\4.Hospital\bin\Debug\netcoreapp3.1\4.Hospital.dll
+C:\VS\C#\C# Advanced\C# OOP\2.WorkingWithAbstraction-Exercise\4.Hospital\bin\Debug\netcoreapp3.1\4.Hospital.pdb
+C:\VS\C#\C# Advanced\C# OOP\2.WorkingWithAbstraction-Exercise\4.Hospital\obj\Debug\netcoreapp3.1\4.Hospital.csprojAssemblyReference.cache
+C:\VS\C#\C# Advanced\C# OOP\2.WorkingWithAbstraction-Exercise\4.Hospital\obj\Debug\netcoreapp3.1\4.Hospital.AssemblyInfoInputs.cache
+C:\VS\C#\C# Advanced\C# OOP\2.WorkingWithAbstraction-Exercise\4.Hospital\obj\Debug\netcoreapp3.1\4.Hospital.AssemblyInfo.cs
+C:\VS\C#\C# Advanced\C# OOP\2.WorkingWithAbstraction-Exercise\4.Hospital\obj\Debug\netcoreapp3.1\4.Hospital.csproj.CoreCompileInputs.cache
+C:\VS\C#\C# Advanced\C# OOP\2.WorkingWithAbstraction-Exercise\4.Hospital\obj\Debug\netcoreapp3.1\4.Hospital.dll
+C:\VS\C#\C# Advanced\C# OOP\2.WorkingWithAbstraction-Exercise\4.Hospital\obj\Debug\netcoreapp3.1\4.Hospital.pdb
+C:\VS\C#\C# Advanced\C# OOP\2.WorkingWithAbstraction-Exercise\4.Hospital\obj\Debug\netcoreapp3.1\4.Hospital.genruntimeconfig.cache

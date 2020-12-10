@@ -1,0 +1,13 @@
+C:\VS\C#\C# Advanced\C# OOP\4.Inheritance-Exercise\2.Zoo\bin\Debug\netcoreapp3.1\2.Zoo.exe
+C:\VS\C#\C# Advanced\C# OOP\4.Inheritance-Exercise\2.Zoo\bin\Debug\netcoreapp3.1\2.Zoo.deps.json
+C:\VS\C#\C# Advanced\C# OOP\4.Inheritance-Exercise\2.Zoo\bin\Debug\netcoreapp3.1\2.Zoo.runtimeconfig.json
+C:\VS\C#\C# Advanced\C# OOP\4.Inheritance-Exercise\2.Zoo\bin\Debug\netcoreapp3.1\2.Zoo.runtimeconfig.dev.json
+C:\VS\C#\C# Advanced\C# OOP\4.Inheritance-Exercise\2.Zoo\bin\Debug\netcoreapp3.1\2.Zoo.dll
+C:\VS\C#\C# Advanced\C# OOP\4.Inheritance-Exercise\2.Zoo\bin\Debug\netcoreapp3.1\2.Zoo.pdb
+C:\VS\C#\C# Advanced\C# OOP\4.Inheritance-Exercise\2.Zoo\obj\Debug\netcoreapp3.1\2.Zoo.csprojAssemblyReference.cache
+C:\VS\C#\C# Advanced\C# OOP\4.Inheritance-Exercise\2.Zoo\obj\Debug\netcoreapp3.1\2.Zoo.AssemblyInfoInputs.cache
+C:\VS\C#\C# Advanced\C# OOP\4.Inheritance-Exercise\2.Zoo\obj\Debug\netcoreapp3.1\2.Zoo.AssemblyInfo.cs
+C:\VS\C#\C# Advanced\C# OOP\4.Inheritance-Exercise\2.Zoo\obj\Debug\netcoreapp3.1\2.Zoo.csproj.CoreCompileInputs.cache
+C:\VS\C#\C# Advanced\C# OOP\4.Inheritance-Exercise\2.Zoo\obj\Debug\netcoreapp3.1\2.Zoo.dll
+C:\VS\C#\C# Advanced\C# OOP\4.Inheritance-Exercise\2.Zoo\obj\Debug\netcoreapp3.1\2.Zoo.pdb
+C:\VS\C#\C# Advanced\C# OOP\4.Inheritance-Exercise\2.Zoo\obj\Debug\netcoreapp3.1\2.Zoo.genruntimeconfig.cache

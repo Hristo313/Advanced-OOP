@@ -1,0 +1,13 @@
+C:\MyFiles\C#\C# Advanced\C# OOP\Counter-Strike\Counter-Strike\bin\Debug\netcoreapp3.1\Counter-Strike.exe
+C:\MyFiles\C#\C# Advanced\C# OOP\Counter-Strike\Counter-Strike\bin\Debug\netcoreapp3.1\Counter-Strike.deps.json
+C:\MyFiles\C#\C# Advanced\C# OOP\Counter-Strike\Counter-Strike\bin\Debug\netcoreapp3.1\Counter-Strike.runtimeconfig.json
+C:\MyFiles\C#\C# Advanced\C# OOP\Counter-Strike\Counter-Strike\bin\Debug\netcoreapp3.1\Counter-Strike.runtimeconfig.dev.json
+C:\MyFiles\C#\C# Advanced\C# OOP\Counter-Strike\Counter-Strike\bin\Debug\netcoreapp3.1\Counter-Strike.dll
+C:\MyFiles\C#\C# Advanced\C# OOP\Counter-Strike\Counter-Strike\bin\Debug\netcoreapp3.1\Counter-Strike.pdb
+C:\MyFiles\C#\C# Advanced\C# OOP\Counter-Strike\Counter-Strike\obj\Debug\netcoreapp3.1\Counter-Strike.csprojAssemblyReference.cache
+C:\MyFiles\C#\C# Advanced\C# OOP\Counter-Strike\Counter-Strike\obj\Debug\netcoreapp3.1\Counter-Strike.AssemblyInfoInputs.cache
+C:\MyFiles\C#\C# Advanced\C# OOP\Counter-Strike\Counter-Strike\obj\Debug\netcoreapp3.1\Counter-Strike.AssemblyInfo.cs
+C:\MyFiles\C#\C# Advanced\C# OOP\Counter-Strike\Counter-Strike\obj\Debug\netcoreapp3.1\Counter-Strike.csproj.CoreCompileInputs.cache
+C:\MyFiles\C#\C# Advanced\C# OOP\Counter-Strike\Counter-Strike\obj\Debug\netcoreapp3.1\Counter-Strike.dll
+C:\MyFiles\C#\C# Advanced\C# OOP\Counter-Strike\Counter-Strike\obj\Debug\netcoreapp3.1\Counter-Strike.pdb
+C:\MyFiles\C#\C# Advanced\C# OOP\Counter-Strike\Counter-Strike\obj\Debug\netcoreapp3.1\Counter-Strike.genruntimeconfig.cache

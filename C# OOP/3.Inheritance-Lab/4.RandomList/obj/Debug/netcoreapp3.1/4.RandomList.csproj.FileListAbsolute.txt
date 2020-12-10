@@ -1,0 +1,12 @@
+C:\VS\C#\C# Advanced\C# OOP\3.Inheritance-Lab\4.RandomList\bin\Debug\netcoreapp3.1\4.RandomList.exe
+C:\VS\C#\C# Advanced\C# OOP\3.Inheritance-Lab\4.RandomList\bin\Debug\netcoreapp3.1\4.RandomList.deps.json
+C:\VS\C#\C# Advanced\C# OOP\3.Inheritance-Lab\4.RandomList\bin\Debug\netcoreapp3.1\4.RandomList.runtimeconfig.json
+C:\VS\C#\C# Advanced\C# OOP\3.Inheritance-Lab\4.RandomList\bin\Debug\netcoreapp3.1\4.RandomList.runtimeconfig.dev.json
+C:\VS\C#\C# Advanced\C# OOP\3.Inheritance-Lab\4.RandomList\bin\Debug\netcoreapp3.1\4.RandomList.dll
+C:\VS\C#\C# Advanced\C# OOP\3.Inheritance-Lab\4.RandomList\bin\Debug\netcoreapp3.1\4.RandomList.pdb
+C:\VS\C#\C# Advanced\C# OOP\3.Inheritance-Lab\4.RandomList\obj\Debug\netcoreapp3.1\4.RandomList.AssemblyInfoInputs.cache
+C:\VS\C#\C# Advanced\C# OOP\3.Inheritance-Lab\4.RandomList\obj\Debug\netcoreapp3.1\4.RandomList.AssemblyInfo.cs
+C:\VS\C#\C# Advanced\C# OOP\3.Inheritance-Lab\4.RandomList\obj\Debug\netcoreapp3.1\4.RandomList.csproj.CoreCompileInputs.cache
+C:\VS\C#\C# Advanced\C# OOP\3.Inheritance-Lab\4.RandomList\obj\Debug\netcoreapp3.1\4.RandomList.dll
+C:\VS\C#\C# Advanced\C# OOP\3.Inheritance-Lab\4.RandomList\obj\Debug\netcoreapp3.1\4.RandomList.pdb
+C:\VS\C#\C# Advanced\C# OOP\3.Inheritance-Lab\4.RandomList\obj\Debug\netcoreapp3.1\4.RandomList.genruntimeconfig.cache

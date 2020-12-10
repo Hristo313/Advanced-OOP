@@ -1,0 +1,11 @@
+C:\VS\C#\C# Advanced\C# OOP\13.UnitTesting-Lab\.vs\13.UnitTesting-Lab\v16\lut\0\b\UnitTestingBasic\Debug\netcoreapp3.1\UnitTestingBasic.exe
+C:\VS\C#\C# Advanced\C# OOP\13.UnitTesting-Lab\.vs\13.UnitTesting-Lab\v16\lut\0\b\UnitTestingBasic\Debug\netcoreapp3.1\UnitTestingBasic.deps.json
+C:\VS\C#\C# Advanced\C# OOP\13.UnitTesting-Lab\.vs\13.UnitTesting-Lab\v16\lut\0\b\UnitTestingBasic\Debug\netcoreapp3.1\UnitTestingBasic.runtimeconfig.json
+C:\VS\C#\C# Advanced\C# OOP\13.UnitTesting-Lab\.vs\13.UnitTesting-Lab\v16\lut\0\b\UnitTestingBasic\Debug\netcoreapp3.1\UnitTestingBasic.runtimeconfig.dev.json
+C:\VS\C#\C# Advanced\C# OOP\13.UnitTesting-Lab\.vs\13.UnitTesting-Lab\v16\lut\0\b\UnitTestingBasic\Debug\netcoreapp3.1\UnitTestingBasic.dll
+C:\VS\C#\C# Advanced\C# OOP\13.UnitTesting-Lab\.vs\13.UnitTesting-Lab\v16\lut\0\i\UnitTestingBasic\Debug\netcoreapp3.1\UnitTestingBasic.csprojAssemblyReference.cache
+C:\VS\C#\C# Advanced\C# OOP\13.UnitTesting-Lab\.vs\13.UnitTesting-Lab\v16\lut\0\i\UnitTestingBasic\Debug\netcoreapp3.1\UnitTestingBasic.AssemblyInfoInputs.cache
+C:\VS\C#\C# Advanced\C# OOP\13.UnitTesting-Lab\.vs\13.UnitTesting-Lab\v16\lut\0\i\UnitTestingBasic\Debug\netcoreapp3.1\UnitTestingBasic.AssemblyInfo.cs
+C:\VS\C#\C# Advanced\C# OOP\13.UnitTesting-Lab\.vs\13.UnitTesting-Lab\v16\lut\0\i\UnitTestingBasic\Debug\netcoreapp3.1\UnitTestingBasic.csproj.CopyComplete
+C:\VS\C#\C# Advanced\C# OOP\13.UnitTesting-Lab\.vs\13.UnitTesting-Lab\v16\lut\0\i\UnitTestingBasic\Debug\netcoreapp3.1\UnitTestingBasic.dll
+C:\VS\C#\C# Advanced\C# OOP\13.UnitTesting-Lab\.vs\13.UnitTesting-Lab\v16\lut\0\i\UnitTestingBasic\Debug\netcoreapp3.1\UnitTestingBasic.genruntimeconfig.cache

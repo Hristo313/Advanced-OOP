@@ -1,0 +1,13 @@
+C:\MyFiles\C#\C# Advanced\C# OOP\Aqua_Shop\obj\Debug\netcoreapp3.1\Aqua_Shop.csprojAssemblyReference.cache
+C:\MyFiles\C#\C# Advanced\C# OOP\Aqua_Shop\obj\Debug\netcoreapp3.1\Aqua_Shop.AssemblyInfoInputs.cache
+C:\MyFiles\C#\C# Advanced\C# OOP\Aqua_Shop\obj\Debug\netcoreapp3.1\Aqua_Shop.AssemblyInfo.cs
+C:\MyFiles\C#\C# Advanced\C# OOP\Aqua_Shop\obj\Debug\netcoreapp3.1\Aqua_Shop.csproj.CoreCompileInputs.cache
+C:\MyFiles\C#\C# Advanced\C# OOP\Aqua_Shop\bin\Debug\netcoreapp3.1\Aqua_Shop.exe
+C:\MyFiles\C#\C# Advanced\C# OOP\Aqua_Shop\bin\Debug\netcoreapp3.1\Aqua_Shop.deps.json
+C:\MyFiles\C#\C# Advanced\C# OOP\Aqua_Shop\bin\Debug\netcoreapp3.1\Aqua_Shop.runtimeconfig.json
+C:\MyFiles\C#\C# Advanced\C# OOP\Aqua_Shop\bin\Debug\netcoreapp3.1\Aqua_Shop.runtimeconfig.dev.json
+C:\MyFiles\C#\C# Advanced\C# OOP\Aqua_Shop\bin\Debug\netcoreapp3.1\Aqua_Shop.dll
+C:\MyFiles\C#\C# Advanced\C# OOP\Aqua_Shop\bin\Debug\netcoreapp3.1\Aqua_Shop.pdb
+C:\MyFiles\C#\C# Advanced\C# OOP\Aqua_Shop\obj\Debug\netcoreapp3.1\Aqua_Shop.dll
+C:\MyFiles\C#\C# Advanced\C# OOP\Aqua_Shop\obj\Debug\netcoreapp3.1\Aqua_Shop.pdb
+C:\MyFiles\C#\C# Advanced\C# OOP\Aqua_Shop\obj\Debug\netcoreapp3.1\Aqua_Shop.genruntimeconfig.cache

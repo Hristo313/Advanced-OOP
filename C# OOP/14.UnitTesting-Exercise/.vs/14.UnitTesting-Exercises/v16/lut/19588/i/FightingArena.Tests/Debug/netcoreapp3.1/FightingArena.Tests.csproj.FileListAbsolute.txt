@@ -1,0 +1,15 @@
+C:\VS\C#\C# Advanced\C# OOP\14.UnitTesting-Exercise\.vs\14.UnitTesting-Exercises\v16\lut\0\b\FightingArena.Tests\Debug\netcoreapp3.1\4.FightingArena.exe
+C:\VS\C#\C# Advanced\C# OOP\14.UnitTesting-Exercise\.vs\14.UnitTesting-Exercises\v16\lut\0\b\FightingArena.Tests\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\VS\C#\C# Advanced\C# OOP\14.UnitTesting-Exercise\.vs\14.UnitTesting-Exercises\v16\lut\0\b\FightingArena.Tests\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\VS\C#\C# Advanced\C# OOP\14.UnitTesting-Exercise\.vs\14.UnitTesting-Exercises\v16\lut\0\b\FightingArena.Tests\Debug\netcoreapp3.1\nunit.engine.dll
+C:\VS\C#\C# Advanced\C# OOP\14.UnitTesting-Exercise\.vs\14.UnitTesting-Exercises\v16\lut\0\b\FightingArena.Tests\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\VS\C#\C# Advanced\C# OOP\14.UnitTesting-Exercise\.vs\14.UnitTesting-Exercises\v16\lut\0\b\FightingArena.Tests\Debug\netcoreapp3.1\FightingArena.Tests.deps.json
+C:\VS\C#\C# Advanced\C# OOP\14.UnitTesting-Exercise\.vs\14.UnitTesting-Exercises\v16\lut\0\b\FightingArena.Tests\Debug\netcoreapp3.1\FightingArena.Tests.runtimeconfig.json
+C:\VS\C#\C# Advanced\C# OOP\14.UnitTesting-Exercise\.vs\14.UnitTesting-Exercises\v16\lut\0\b\FightingArena.Tests\Debug\netcoreapp3.1\FightingArena.Tests.runtimeconfig.dev.json
+C:\VS\C#\C# Advanced\C# OOP\14.UnitTesting-Exercise\.vs\14.UnitTesting-Exercises\v16\lut\0\b\FightingArena.Tests\Debug\netcoreapp3.1\FightingArena.Tests.dll
+C:\VS\C#\C# Advanced\C# OOP\14.UnitTesting-Exercise\.vs\14.UnitTesting-Exercises\v16\lut\0\i\FightingArena.Tests\Debug\netcoreapp3.1\FightingArena.Tests.AssemblyInfoInputs.cache
+C:\VS\C#\C# Advanced\C# OOP\14.UnitTesting-Exercise\.vs\14.UnitTesting-Exercises\v16\lut\0\i\FightingArena.Tests\Debug\netcoreapp3.1\FightingArena.Tests.AssemblyInfo.cs
+C:\VS\C#\C# Advanced\C# OOP\14.UnitTesting-Exercise\.vs\14.UnitTesting-Exercises\v16\lut\0\i\FightingArena.Tests\Debug\netcoreapp3.1\FightingArena.Tests.csproj.CopyComplete
+C:\VS\C#\C# Advanced\C# OOP\14.UnitTesting-Exercise\.vs\14.UnitTesting-Exercises\v16\lut\0\i\FightingArena.Tests\Debug\netcoreapp3.1\FightingArena.Tests.dll
+C:\VS\C#\C# Advanced\C# OOP\14.UnitTesting-Exercise\.vs\14.UnitTesting-Exercises\v16\lut\0\i\FightingArena.Tests\Debug\netcoreapp3.1\FightingArena.Tests.genruntimeconfig.cache
+C:\VS\C#\C# Advanced\C# OOP\14.UnitTesting-Exercise\.vs\14.UnitTesting-Exercises\v16\lut\0\i\FightingArena.Tests\Debug\netcoreapp3.1\FightingArena.Tests.csprojAssemblyReference.cache

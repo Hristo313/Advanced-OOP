@@ -1,0 +1,16 @@
+C:\VS\C#\C# Advanced\C# OOP\13.UnitTesting-Lab\1.UnitTestingBasic\bin\Debug\netcoreapp3.1\1.UnitTestingBasic.exe
+C:\VS\C#\C# Advanced\C# OOP\13.UnitTesting-Lab\1.UnitTestingBasic\bin\Debug\netcoreapp3.1\1.UnitTestingBasic.deps.json
+C:\VS\C#\C# Advanced\C# OOP\13.UnitTesting-Lab\1.UnitTestingBasic\bin\Debug\netcoreapp3.1\1.UnitTestingBasic.runtimeconfig.json
+C:\VS\C#\C# Advanced\C# OOP\13.UnitTesting-Lab\1.UnitTestingBasic\bin\Debug\netcoreapp3.1\1.UnitTestingBasic.runtimeconfig.dev.json
+C:\VS\C#\C# Advanced\C# OOP\13.UnitTesting-Lab\1.UnitTestingBasic\bin\Debug\netcoreapp3.1\1.UnitTestingBasic.dll
+C:\VS\C#\C# Advanced\C# OOP\13.UnitTesting-Lab\1.UnitTestingBasic\bin\Debug\netcoreapp3.1\1.UnitTestingBasic.pdb
+C:\VS\C#\C# Advanced\C# OOP\13.UnitTesting-Lab\1.UnitTestingBasic\obj\Debug\netcoreapp3.1\1.UnitTestingBasic.csprojAssemblyReference.cache
+C:\VS\C#\C# Advanced\C# OOP\13.UnitTesting-Lab\1.UnitTestingBasic\obj\Debug\netcoreapp3.1\1.UnitTestingBasic.AssemblyInfoInputs.cache
+C:\VS\C#\C# Advanced\C# OOP\13.UnitTesting-Lab\1.UnitTestingBasic\obj\Debug\netcoreapp3.1\1.UnitTestingBasic.AssemblyInfo.cs
+C:\VS\C#\C# Advanced\C# OOP\13.UnitTesting-Lab\1.UnitTestingBasic\obj\Debug\netcoreapp3.1\1.UnitTestingBasic.dll
+C:\VS\C#\C# Advanced\C# OOP\13.UnitTesting-Lab\1.UnitTestingBasic\obj\Debug\netcoreapp3.1\1.UnitTestingBasic.pdb
+C:\VS\C#\C# Advanced\C# OOP\13.UnitTesting-Lab\1.UnitTestingBasic\obj\Debug\netcoreapp3.1\1.UnitTestingBasic.genruntimeconfig.cache
+C:\VS\C#\C# Advanced\C# OOP\13.UnitTesting-Lab\1.UnitTestingBasic\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\VS\C#\C# Advanced\C# OOP\13.UnitTesting-Lab\1.UnitTestingBasic\bin\Debug\netcoreapp3.1\Moq.dll
+C:\VS\C#\C# Advanced\C# OOP\13.UnitTesting-Lab\1.UnitTestingBasic\obj\Debug\netcoreapp3.1\1.UnitTestingBasic.csproj.CoreCompileInputs.cache
+C:\VS\C#\C# Advanced\C# OOP\13.UnitTesting-Lab\1.UnitTestingBasic\obj\Debug\netcoreapp3.1\1.UnitTestingBasic.csproj.CopyComplete

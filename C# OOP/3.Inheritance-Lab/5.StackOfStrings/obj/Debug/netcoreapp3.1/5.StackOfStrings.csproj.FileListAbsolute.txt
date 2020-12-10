@@ -1,0 +1,13 @@
+C:\VS\C#\C# Advanced\C# OOP\3.Inheritance-Lab\5.StackOfStrings\obj\Debug\netcoreapp3.1\5.StackOfStrings.csprojAssemblyReference.cache
+C:\VS\C#\C# Advanced\C# OOP\3.Inheritance-Lab\5.StackOfStrings\obj\Debug\netcoreapp3.1\5.StackOfStrings.AssemblyInfoInputs.cache
+C:\VS\C#\C# Advanced\C# OOP\3.Inheritance-Lab\5.StackOfStrings\obj\Debug\netcoreapp3.1\5.StackOfStrings.AssemblyInfo.cs
+C:\VS\C#\C# Advanced\C# OOP\3.Inheritance-Lab\5.StackOfStrings\obj\Debug\netcoreapp3.1\5.StackOfStrings.csproj.CoreCompileInputs.cache
+C:\VS\C#\C# Advanced\C# OOP\3.Inheritance-Lab\5.StackOfStrings\bin\Debug\netcoreapp3.1\5.StackOfStrings.exe
+C:\VS\C#\C# Advanced\C# OOP\3.Inheritance-Lab\5.StackOfStrings\bin\Debug\netcoreapp3.1\5.StackOfStrings.deps.json
+C:\VS\C#\C# Advanced\C# OOP\3.Inheritance-Lab\5.StackOfStrings\bin\Debug\netcoreapp3.1\5.StackOfStrings.runtimeconfig.json
+C:\VS\C#\C# Advanced\C# OOP\3.Inheritance-Lab\5.StackOfStrings\bin\Debug\netcoreapp3.1\5.StackOfStrings.runtimeconfig.dev.json
+C:\VS\C#\C# Advanced\C# OOP\3.Inheritance-Lab\5.StackOfStrings\bin\Debug\netcoreapp3.1\5.StackOfStrings.dll
+C:\VS\C#\C# Advanced\C# OOP\3.Inheritance-Lab\5.StackOfStrings\bin\Debug\netcoreapp3.1\5.StackOfStrings.pdb
+C:\VS\C#\C# Advanced\C# OOP\3.Inheritance-Lab\5.StackOfStrings\obj\Debug\netcoreapp3.1\5.StackOfStrings.dll
+C:\VS\C#\C# Advanced\C# OOP\3.Inheritance-Lab\5.StackOfStrings\obj\Debug\netcoreapp3.1\5.StackOfStrings.pdb
+C:\VS\C#\C# Advanced\C# OOP\3.Inheritance-Lab\5.StackOfStrings\obj\Debug\netcoreapp3.1\5.StackOfStrings.genruntimeconfig.cache

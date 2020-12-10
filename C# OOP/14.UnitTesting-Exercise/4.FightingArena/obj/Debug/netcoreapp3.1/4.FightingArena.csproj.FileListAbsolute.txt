@@ -1,0 +1,13 @@
+C:\VS\C#\C# Advanced\C# OOP\14.UnitTesting-Exercise\4.FightingArena\bin\Debug\netcoreapp3.1\4.FightingArena.exe
+C:\VS\C#\C# Advanced\C# OOP\14.UnitTesting-Exercise\4.FightingArena\bin\Debug\netcoreapp3.1\4.FightingArena.deps.json
+C:\VS\C#\C# Advanced\C# OOP\14.UnitTesting-Exercise\4.FightingArena\bin\Debug\netcoreapp3.1\4.FightingArena.runtimeconfig.json
+C:\VS\C#\C# Advanced\C# OOP\14.UnitTesting-Exercise\4.FightingArena\bin\Debug\netcoreapp3.1\4.FightingArena.runtimeconfig.dev.json
+C:\VS\C#\C# Advanced\C# OOP\14.UnitTesting-Exercise\4.FightingArena\bin\Debug\netcoreapp3.1\4.FightingArena.dll
+C:\VS\C#\C# Advanced\C# OOP\14.UnitTesting-Exercise\4.FightingArena\bin\Debug\netcoreapp3.1\4.FightingArena.pdb
+C:\VS\C#\C# Advanced\C# OOP\14.UnitTesting-Exercise\4.FightingArena\obj\Debug\netcoreapp3.1\4.FightingArena.csprojAssemblyReference.cache
+C:\VS\C#\C# Advanced\C# OOP\14.UnitTesting-Exercise\4.FightingArena\obj\Debug\netcoreapp3.1\4.FightingArena.AssemblyInfoInputs.cache
+C:\VS\C#\C# Advanced\C# OOP\14.UnitTesting-Exercise\4.FightingArena\obj\Debug\netcoreapp3.1\4.FightingArena.AssemblyInfo.cs
+C:\VS\C#\C# Advanced\C# OOP\14.UnitTesting-Exercise\4.FightingArena\obj\Debug\netcoreapp3.1\4.FightingArena.csproj.CoreCompileInputs.cache
+C:\VS\C#\C# Advanced\C# OOP\14.UnitTesting-Exercise\4.FightingArena\obj\Debug\netcoreapp3.1\4.FightingArena.dll
+C:\VS\C#\C# Advanced\C# OOP\14.UnitTesting-Exercise\4.FightingArena\obj\Debug\netcoreapp3.1\4.FightingArena.pdb
+C:\VS\C#\C# Advanced\C# OOP\14.UnitTesting-Exercise\4.FightingArena\obj\Debug\netcoreapp3.1\4.FightingArena.genruntimeconfig.cache

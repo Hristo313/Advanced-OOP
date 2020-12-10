@@ -1,0 +1,13 @@
+C:\VS\C#\C# Advanced\C# OOP\2.WorkingWithAbstraction-Exercise\3.JediGalaxy\bin\Debug\netcoreapp3.1\3.JediGalaxy.exe
+C:\VS\C#\C# Advanced\C# OOP\2.WorkingWithAbstraction-Exercise\3.JediGalaxy\bin\Debug\netcoreapp3.1\3.JediGalaxy.deps.json
+C:\VS\C#\C# Advanced\C# OOP\2.WorkingWithAbstraction-Exercise\3.JediGalaxy\bin\Debug\netcoreapp3.1\3.JediGalaxy.runtimeconfig.json
+C:\VS\C#\C# Advanced\C# OOP\2.WorkingWithAbstraction-Exercise\3.JediGalaxy\bin\Debug\netcoreapp3.1\3.JediGalaxy.runtimeconfig.dev.json
+C:\VS\C#\C# Advanced\C# OOP\2.WorkingWithAbstraction-Exercise\3.JediGalaxy\bin\Debug\netcoreapp3.1\3.JediGalaxy.dll
+C:\VS\C#\C# Advanced\C# OOP\2.WorkingWithAbstraction-Exercise\3.JediGalaxy\bin\Debug\netcoreapp3.1\3.JediGalaxy.pdb
+C:\VS\C#\C# Advanced\C# OOP\2.WorkingWithAbstraction-Exercise\3.JediGalaxy\obj\Debug\netcoreapp3.1\3.JediGalaxy.csprojAssemblyReference.cache
+C:\VS\C#\C# Advanced\C# OOP\2.WorkingWithAbstraction-Exercise\3.JediGalaxy\obj\Debug\netcoreapp3.1\3.JediGalaxy.AssemblyInfoInputs.cache
+C:\VS\C#\C# Advanced\C# OOP\2.WorkingWithAbstraction-Exercise\3.JediGalaxy\obj\Debug\netcoreapp3.1\3.JediGalaxy.AssemblyInfo.cs
+C:\VS\C#\C# Advanced\C# OOP\2.WorkingWithAbstraction-Exercise\3.JediGalaxy\obj\Debug\netcoreapp3.1\3.JediGalaxy.csproj.CoreCompileInputs.cache
+C:\VS\C#\C# Advanced\C# OOP\2.WorkingWithAbstraction-Exercise\3.JediGalaxy\obj\Debug\netcoreapp3.1\3.JediGalaxy.dll
+C:\VS\C#\C# Advanced\C# OOP\2.WorkingWithAbstraction-Exercise\3.JediGalaxy\obj\Debug\netcoreapp3.1\3.JediGalaxy.pdb
+C:\VS\C#\C# Advanced\C# OOP\2.WorkingWithAbstraction-Exercise\3.JediGalaxy\obj\Debug\netcoreapp3.1\3.JediGalaxy.genruntimeconfig.cache

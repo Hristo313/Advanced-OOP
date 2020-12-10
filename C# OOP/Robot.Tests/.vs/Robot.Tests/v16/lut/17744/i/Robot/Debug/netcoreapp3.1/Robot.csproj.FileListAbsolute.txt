@@ -1,0 +1,10 @@
+C:\MyFiles\C#\C# Advanced\C# OOP\Robot.Tests\.vs\Robot.Tests\v16\lut\0\b\Robot\Debug\netcoreapp3.1\Robot.exe
+C:\MyFiles\C#\C# Advanced\C# OOP\Robot.Tests\.vs\Robot.Tests\v16\lut\0\b\Robot\Debug\netcoreapp3.1\Robot.deps.json
+C:\MyFiles\C#\C# Advanced\C# OOP\Robot.Tests\.vs\Robot.Tests\v16\lut\0\b\Robot\Debug\netcoreapp3.1\Robot.runtimeconfig.json
+C:\MyFiles\C#\C# Advanced\C# OOP\Robot.Tests\.vs\Robot.Tests\v16\lut\0\b\Robot\Debug\netcoreapp3.1\Robot.runtimeconfig.dev.json
+C:\MyFiles\C#\C# Advanced\C# OOP\Robot.Tests\.vs\Robot.Tests\v16\lut\0\b\Robot\Debug\netcoreapp3.1\Robot.dll
+C:\MyFiles\C#\C# Advanced\C# OOP\Robot.Tests\.vs\Robot.Tests\v16\lut\0\i\Robot\Debug\netcoreapp3.1\Robot.AssemblyInfoInputs.cache
+C:\MyFiles\C#\C# Advanced\C# OOP\Robot.Tests\.vs\Robot.Tests\v16\lut\0\i\Robot\Debug\netcoreapp3.1\Robot.AssemblyInfo.cs
+C:\MyFiles\C#\C# Advanced\C# OOP\Robot.Tests\.vs\Robot.Tests\v16\lut\0\i\Robot\Debug\netcoreapp3.1\Robot.csproj.CopyComplete
+C:\MyFiles\C#\C# Advanced\C# OOP\Robot.Tests\.vs\Robot.Tests\v16\lut\0\i\Robot\Debug\netcoreapp3.1\Robot.dll
+C:\MyFiles\C#\C# Advanced\C# OOP\Robot.Tests\.vs\Robot.Tests\v16\lut\0\i\Robot\Debug\netcoreapp3.1\Robot.genruntimeconfig.cache
