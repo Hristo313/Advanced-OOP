@@ -1,0 +1,6 @@
+.cs
+--Program.cs - 1,000kb
+.csproj
+--05.DirectoryTraversal.csproj - 0,000kb
+.txt
+--output.txt - 0,000kb
