@@ -1,2 +1,0 @@
-C:\VS\C#\C# Advanced\C# OOP\14.UnitTesting-Exercise\.vs\14.UnitTesting-Exercises\v16\lut\0\i\ExtendedDatabase.Tests\Debug\netcoreapp3.1\ExtendedDatabase.Tests.AssemblyInfoInputs.cache
-C:\VS\C#\C# Advanced\C# OOP\14.UnitTesting-Exercise\.vs\14.UnitTesting-Exercises\v16\lut\0\i\ExtendedDatabase.Tests\Debug\netcoreapp3.1\ExtendedDatabase.Tests.AssemblyInfo.cs
