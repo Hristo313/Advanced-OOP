@@ -20,7 +20,6 @@
             Console.Write(copyRightText);
 
             string score = "Score: ";
-
             Console.SetCursorPosition(wall.LeftX - copyRightText.Length, wall.TopY + 2);
             Console.Write(score);
 
