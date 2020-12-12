@@ -1,7 +1,7 @@
 # Advanced
 
 In this repository I have trained exercises from C# Advanced module in SoftUni:
-1) Data structures like stack, queue, dictionary, set and multidementional arrays;
+1) Data structures - stack, queue, dictionary, set and multidementional arrays;
 2) Generics, irerators and comperators;
 3) Functional Programming;
 4) Streams, files and directories
