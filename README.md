@@ -13,5 +13,5 @@ OOP principles:
 4) Encapsulation;
 5) SOLID principles
 6) Exceptions and error handling;
-7) Unit Testing;
+7) NUnit Testing;
 8) Snake Game
