@@ -1,10 +1,11 @@
 # Advanced/OOP
 
 In this repository I have trained exercises with C#:
-1) Data structures - stack, queue, dictionary, list, set and multidementional arrays;
-2) Generics, irerators and comperators;
-3) Functional Programming;
-4) Streams, files and directories
+1) String and Text Processing;
+2) Data structures - array, list, stack, queue, dictionary, list, set and multidementional arrays;
+3) Generics, irerators and comperators;
+4) Functional Programming;
+5) Streams, files and directories
 
 OOP principles:
 1) Inheritance;
@@ -14,5 +15,5 @@ OOP principles:
 5) SOLID principles
 6) Exceptions and error handling;
 7) NUnit Testing;
-8) Design Patterns
+8) Design Patterns;
 9) Snake Game
