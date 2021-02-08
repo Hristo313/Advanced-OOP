@@ -16,5 +16,5 @@ OOP principles:
 6) Exceptions and error handling;
 7) NUnit Testing;
 8) Design Patterns;
-9) Aqua Shop and Counter-Strike Projects
-10) Snake Game
+9) AQUA SHOP and COUNTER-STRIKE PROJECTS
+10) SNAKE GAME
