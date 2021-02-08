@@ -14,4 +14,5 @@ OOP principles:
 5) SOLID principles
 6) Exceptions and error handling;
 7) NUnit Testing;
-8) Snake Game
+8) Design Patterns
+9) Snake Game
