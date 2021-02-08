@@ -2,7 +2,7 @@
 
 In this repository I have trained exercises with C#:
 1) String and Text Processing;
-2) Data structures - array, list, stack, queue, dictionary, list, set and multidementional arrays;
+2) Data structures - array, list, stack, queue, dictionary, set and multidementional arrays;
 3) Generics, irerators and comperators;
 4) Functional Programming;
 5) Streams, files and directories
