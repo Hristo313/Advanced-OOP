@@ -1,4 +1,4 @@
-# Advanced
+# Advanced/OOP
 
 In this repository I have trained exercises with C#:
 1) Data structures - stack, queue, dictionary, list, set and multidementional arrays;
