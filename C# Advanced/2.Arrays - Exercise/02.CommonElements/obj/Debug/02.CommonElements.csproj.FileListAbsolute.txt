@@ -1,0 +1,7 @@
+D:\Visual Studio Programs\Arrays - Exercise\02.CommonElements\bin\Debug\02.CommonElements.exe.config
+D:\Visual Studio Programs\Arrays - Exercise\02.CommonElements\bin\Debug\02.CommonElements.exe
+D:\Visual Studio Programs\Arrays - Exercise\02.CommonElements\bin\Debug\02.CommonElements.pdb
+D:\Visual Studio Programs\Arrays - Exercise\02.CommonElements\obj\Debug\02.CommonElements.csprojAssemblyReference.cache
+D:\Visual Studio Programs\Arrays - Exercise\02.CommonElements\obj\Debug\02.CommonElements.csproj.CoreCompileInputs.cache
+D:\Visual Studio Programs\Arrays - Exercise\02.CommonElements\obj\Debug\02.CommonElements.exe
+D:\Visual Studio Programs\Arrays - Exercise\02.CommonElements\obj\Debug\02.CommonElements.pdb

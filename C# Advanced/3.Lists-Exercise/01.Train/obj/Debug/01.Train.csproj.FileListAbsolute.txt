@@ -1,0 +1,7 @@
+D:\Programming Files VS\Lists-Exercise\01.Train\bin\Debug\01.Train.exe.config
+D:\Programming Files VS\Lists-Exercise\01.Train\bin\Debug\01.Train.exe
+D:\Programming Files VS\Lists-Exercise\01.Train\bin\Debug\01.Train.pdb
+D:\Programming Files VS\Lists-Exercise\01.Train\obj\Debug\01.Train.csprojAssemblyReference.cache
+D:\Programming Files VS\Lists-Exercise\01.Train\obj\Debug\01.Train.csproj.CoreCompileInputs.cache
+D:\Programming Files VS\Lists-Exercise\01.Train\obj\Debug\01.Train.exe
+D:\Programming Files VS\Lists-Exercise\01.Train\obj\Debug\01.Train.pdb

@@ -1,0 +1,10 @@
+C:\VS\C#\SecondTechPart\6.StringsAndTextProcessing-Exercise\05.MultiplyBigNumber\bin\Debug\netcoreapp2.1\05.MultiplyBigNumber.deps.json
+C:\VS\C#\SecondTechPart\6.StringsAndTextProcessing-Exercise\05.MultiplyBigNumber\bin\Debug\netcoreapp2.1\05.MultiplyBigNumber.runtimeconfig.json
+C:\VS\C#\SecondTechPart\6.StringsAndTextProcessing-Exercise\05.MultiplyBigNumber\bin\Debug\netcoreapp2.1\05.MultiplyBigNumber.runtimeconfig.dev.json
+C:\VS\C#\SecondTechPart\6.StringsAndTextProcessing-Exercise\05.MultiplyBigNumber\bin\Debug\netcoreapp2.1\05.MultiplyBigNumber.dll
+C:\VS\C#\SecondTechPart\6.StringsAndTextProcessing-Exercise\05.MultiplyBigNumber\bin\Debug\netcoreapp2.1\05.MultiplyBigNumber.pdb
+C:\VS\C#\SecondTechPart\6.StringsAndTextProcessing-Exercise\05.MultiplyBigNumber\obj\Debug\netcoreapp2.1\05.MultiplyBigNumber.csprojAssemblyReference.cache
+C:\VS\C#\SecondTechPart\6.StringsAndTextProcessing-Exercise\05.MultiplyBigNumber\obj\Debug\netcoreapp2.1\05.MultiplyBigNumber.AssemblyInfoInputs.cache
+C:\VS\C#\SecondTechPart\6.StringsAndTextProcessing-Exercise\05.MultiplyBigNumber\obj\Debug\netcoreapp2.1\05.MultiplyBigNumber.AssemblyInfo.cs
+C:\VS\C#\SecondTechPart\6.StringsAndTextProcessing-Exercise\05.MultiplyBigNumber\obj\Debug\netcoreapp2.1\05.MultiplyBigNumber.dll
+C:\VS\C#\SecondTechPart\6.StringsAndTextProcessing-Exercise\05.MultiplyBigNumber\obj\Debug\netcoreapp2.1\05.MultiplyBigNumber.pdb

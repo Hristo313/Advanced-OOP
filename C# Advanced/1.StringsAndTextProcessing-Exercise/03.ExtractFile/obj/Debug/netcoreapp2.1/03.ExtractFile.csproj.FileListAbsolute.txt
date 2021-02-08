@@ -1,0 +1,11 @@
+D:\Programming Files VS\StringsAndTextProcessing-Exercise\03.ExtractFile\bin\Debug\netcoreapp2.1\03.ExtractFile.deps.json
+D:\Programming Files VS\StringsAndTextProcessing-Exercise\03.ExtractFile\bin\Debug\netcoreapp2.1\03.ExtractFile.runtimeconfig.json
+D:\Programming Files VS\StringsAndTextProcessing-Exercise\03.ExtractFile\bin\Debug\netcoreapp2.1\03.ExtractFile.runtimeconfig.dev.json
+D:\Programming Files VS\StringsAndTextProcessing-Exercise\03.ExtractFile\bin\Debug\netcoreapp2.1\03.ExtractFile.dll
+D:\Programming Files VS\StringsAndTextProcessing-Exercise\03.ExtractFile\bin\Debug\netcoreapp2.1\03.ExtractFile.pdb
+D:\Programming Files VS\StringsAndTextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp2.1\03.ExtractFile.csprojAssemblyReference.cache
+D:\Programming Files VS\StringsAndTextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp2.1\03.ExtractFile.csproj.CoreCompileInputs.cache
+D:\Programming Files VS\StringsAndTextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp2.1\03.ExtractFile.AssemblyInfoInputs.cache
+D:\Programming Files VS\StringsAndTextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp2.1\03.ExtractFile.AssemblyInfo.cs
+D:\Programming Files VS\StringsAndTextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp2.1\03.ExtractFile.dll
+D:\Programming Files VS\StringsAndTextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp2.1\03.ExtractFile.pdb
